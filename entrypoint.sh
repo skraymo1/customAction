@@ -1,1 +1,4 @@
-print "Hello World!"
+#!/bin/bash
+set -e
+
+echo "Hello World!"
