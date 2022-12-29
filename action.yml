@@ -1,0 +1,8 @@
+name: 'HelloWorld843287437283287342'
+description: 'Test action'
+runs:
+   using: 'docker'
+   image: 'Dockerfile'
+branding:
+   icon: 'feather'
+   color: 'blue'
